@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="runTask2Test">
+
+    <test name="Task2Test">
+
+        <classes>
+            <class name="com.gitlab.rmarzec.task.Task2Test"/>
+        </classes>
+
+    </test>
+
+</suite>
